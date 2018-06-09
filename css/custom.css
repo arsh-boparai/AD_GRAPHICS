@@ -10,10 +10,11 @@
     
     .navbar {
         margin-bottom: 0;
+        padding-bottom: 5px
     }
     
     .bg-dark {
-        background-color: #343a40!important;
+        background-color: black!important;
     }
     
     .jumbotron {
@@ -44,19 +45,23 @@
     footer {
         padding-top: 3rem;
         padding-bottom: 3rem;
+        color: white!important
     }
     
     footer p {
         margin-bottom: .25rem;
+        color: white!important
     }
     
     .float-right {
-        float: right!important
+        float: right!important;
+        color: white!important
     }
     
     #myImg,
     #myImg2,
-    #myImg3,#myImg4 {
+    #myImg3,
+    #myImg4 {
         border-radius: 5px;
         cursor: pointer;
         transition: 0.3s;
@@ -64,12 +69,18 @@
     
     #myImg:hover,
     #myImg2:hover,
-    #myImg3:hover,#myImg4:hover,
-    #myImg5:hover,#myImg6:hover,
-    #myImg7:hover,#myImg8:hover,
-    #myImg9:hover,#myImg10:hover,
-    #myImg11:hover,#myImg12:hover,
-    #myImg13:hover,#myImg14:hover {
+    #myImg3:hover,
+    #myImg4:hover,
+    #myImg5:hover,
+    #myImg6:hover,
+    #myImg7:hover,
+    #myImg8:hover,
+    #myImg9:hover,
+    #myImg10:hover,
+    #myImg11:hover,
+    #myImg12:hover,
+    #myImg13:hover,
+    #myImg14:hover {
         opacity: 0.7;
     }
     /* The Modal (background) */
