@@ -4,8 +4,29 @@
     }
     
     #model {
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        font-size: 25pt
+        font-family: agency fb;
+        font-size: 15pt
+    }
+    
+    #model2 {
+        font-family: agency fb;
+        font-size: 20pt
+    }
+    
+    #serve {
+        text-align: center;
+        height: 800px;
+        padding: 25px;
+        opacity: 0.9;
+        font-size: 20pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif
+    }
+    
+    #serve1 {
+        text-align: center;
+        width: 100%;
+        font-size: 20pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif
     }
     
     .navbar {
