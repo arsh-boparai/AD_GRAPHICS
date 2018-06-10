@@ -17,6 +17,17 @@ body {
     width: 100%;
 }
 
+#imgx {
+    width: 70px;
+    height: 70px;
+    margin-right: 30px;
+    opacity: 1.0;
+}
+
+#imgx:hover {
+    opacity: 0.7;
+}
+
 
 /* vertical-centered text */
 
@@ -72,7 +83,7 @@ body {
 #information {
     background: url(../images/bg2.jpg) no-repeat center center fixed;
     display: table;
-    height: 800px;
+    height: 600px;
     position: relative;
     width: 100%;
     -webkit-background-size: cover;
