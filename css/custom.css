@@ -1,5 +1,6 @@
     body {
         min-height: 75rem;
+        font-family: Consolas, monaco, monospace!important;
         /* Can be removed; just added for demo purposes */
     }
     
@@ -19,7 +20,17 @@
         padding: 25px;
         opacity: 0.9;
         font-size: 20pt;
-        font-family: Verdana, Geneva, Tahoma, sans-serif
+        font-family: Consolas, monaco, monospace
+    }
+    
+    #serve2 {
+        text-align: center;
+        height: 120px;
+        padding-top: 25px;
+        color: white;
+        background: url(../images/bg2.jpg);
+        font-size: 25pt;
+        font-family: Consolas, monaco, monospace;
     }
     
     #serve1 {

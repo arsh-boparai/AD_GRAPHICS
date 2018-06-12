@@ -61,6 +61,80 @@ body {
     background-size: cover;
 }
 
+#homegraphics {
+    margin-top: -20px;
+    background: url(../images/models/3DModels.jpg) no-repeat center center fixed;
+    display: table;
+    height: 180px;
+    position: relative;
+    width: 100%;
+    font-family: 'Gill Sans';
+    color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#homeservices {
+    margin-top: -20px;
+    background: url(../images/models/services1.jpg) no-repeat center center fixed;
+    display: table;
+    height: 180px;
+    position: relative;
+    width: 100%;
+    font-family: 'Gill Sans';
+    color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#homegraphics1 {
+    margin-top: -20px;
+    background: url(../images/models/exterior.jpg) no-repeat center center fixed;
+    display: table;
+    height: 380px;
+    position: relative;
+    width: 100%;
+    font-family: 'Gill Sans';
+    color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#homegraphics2 {
+    margin-top: -20px;
+    background: url(../images/models/Interior2.jpg) no-repeat center center fixed;
+    display: table;
+    height: 380px;
+    position: relative;
+    width: 100%;
+    font-family: 'Gill Sans';
+    color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#interior {
+    background: url(../images/models/interior.jpg) no-repeat center center fixed;
+    display: table;
+    height: 700px;
+    position: relative;
+    width: 100%;
+    font-family: 'Gill Sans';
+    color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 #about {}
 
 #services {
