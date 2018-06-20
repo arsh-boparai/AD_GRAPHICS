@@ -47,6 +47,15 @@ body {
 
 /* additional sections */
 
+#web {
+    background: black;
+    color: white;
+    font-family: monospace;
+    padding-top: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
 #home {
     background: url(../images/bg1.jpg) no-repeat center center fixed;
     display: table;
@@ -124,11 +133,13 @@ body {
 #interior {
     background: url(../images/models/interior.jpg) no-repeat center center fixed;
     display: table;
+    color: black;
+    text-align: center;
+    font-size: 50px;
     height: 700px;
     position: relative;
     width: 100%;
-    font-family: 'Gill Sans';
-    color: white;
+    font-family: agency fb;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
